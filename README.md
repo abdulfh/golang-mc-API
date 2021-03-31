@@ -5,7 +5,7 @@ Golang is for dealing with word pluralization.
 ## Installation
 
 ```bash
-go ge
+go get
 ```
 
 ## Contributing
